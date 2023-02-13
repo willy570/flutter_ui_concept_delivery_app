@@ -1,16 +1,38 @@
-# flutter_ui_concept_delivery_app
+## Flutter Food Delivery Application Design - Day 3
 
-A new Flutter project.
+```dart
+class Day3 extends Flutter100DaysOfCode {
+  video() {
+    return {
+      "title": "Flutter Food Delivery Application Design, study case: Texas Grillz Abidjan",
+      "description": "Let's see how we can design a Food Delivery app UI and add some animation.",
+      "day": 3,
+      "videoLink": "#"
+    }
+  }
+}
+```
 
-## Getting Started
+<br>
 
-This project is a starting point for a Flutter application.
+## Previous Designs
+[Checkout my LinkedIn page](https://www.linkedin.com/feed/update/urn:li:activity:7029743266770112513/)
+<br>
 
-A few resources to get you started if this is your first Flutter project:
+## Development Setup
+Clone the repository and run the following commands:
+```
+flutter pub get
+flutter run
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ScreenShot
+
+<img src="assets/screenshot/one.png" height="500em" /><img src="assets/screenshot/two.png" height="500em" /><img src="assets/screenshot/three.png" height="500em" /><img src="assets/screenshot/four.png" height="500em" /><img src="assets/screenshot/five.png" height="500em" />
+
+
+## Links
+* [LinkedIn](https://www.linkedin.com/in/patrick-wilfried-kamelan-2b388a115/)
+* [Twitter](https://twitter.com/KamelanPatrick)
+* [Instagram](https://www.instagram.com/patrickispoppin/)
