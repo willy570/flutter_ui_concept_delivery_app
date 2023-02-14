@@ -6,7 +6,7 @@ Widget makeCategory({isActive, title}) {
     child: Container(
       margin: const EdgeInsets.only(right: 10),
       decoration: BoxDecoration(
-        color: isActive ? Colors.yellow[700] : Colors.white,
+        color: isActive ? const Color.fromARGB(255, 119, 3, 3) : Colors.white,
         borderRadius: BorderRadius.circular(50),
       ),
       child: Align(

@@ -40,7 +40,7 @@ Widget makeItem({image}) {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: const <Widget>[
                     Text(
-                      "\$ 15.00",
+                      "20 000",
                       style: TextStyle(
                           color: Colors.white,
                           fontSize: 40,

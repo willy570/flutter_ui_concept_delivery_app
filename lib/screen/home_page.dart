@@ -110,11 +110,22 @@ class _HomePageState extends State<HomePage> {
                   scrollDirection: Axis.horizontal,
                   children: <Widget>[
                     FadeAnimation(
-                        1.4, makeItem(image: 'assets/images/one.jpg')),
+                      1.4,
+                      makeItem(image: 'assets/images/veg-pizza-1B.jpg'),
+                    ),
                     FadeAnimation(
-                        1.5, makeItem(image: 'assets/images/two.jpg')),
+                      1.5,
+                      makeItem(image: 'assets/images/Veggie-Pizza-8.jpg'),
+                    ),
                     FadeAnimation(
-                        1.6, makeItem(image: 'assets/images/three.jpg')),
+                      1.6,
+                      makeItem(
+                          image: 'assets/images/veggie-pizza-recipes_002.jpg'),
+                    ),
+                    FadeAnimation(
+                      1.7,
+                      makeItem(image: 'assets/images/cajun-pizza-bc98c6e.jpg'),
+                    ),
                   ],
                 ),
               ),
